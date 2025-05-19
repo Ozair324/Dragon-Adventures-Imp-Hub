@@ -2,7 +2,7 @@
 
 Master the skies and automate your journey with **Dragon Adventures Imp Hub**—a **free, keyless** script loaded with tools for farming, trading, raising dragons, and completing the tutorial. If you're ready to skip the grind and fly ahead, this hub has your back.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/Dragon-Adventures-Imp-Hub/blob/main/Dragon%20Adventures%20Imp%20Hub%20-%20Auto%20Everything%20Script%20%20%20(1).png)
 
 ---
 
